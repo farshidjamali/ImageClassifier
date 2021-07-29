@@ -21,10 +21,10 @@ The links of the image files will get downloaded as a file named download. Then 
 Using fast.ai we can get the URLs for the images that we want.
 
 Load and view your data:
-Importing libraries
-import fastai
-fastai.__version__
-from fastai import *
-from fastai.vision import *
+Importing libraries  
+import fastai  
+fastai.__version__  
+from fastai import *  
+from fastai.vision import *  
 
 
